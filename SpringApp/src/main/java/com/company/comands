@@ -1,0 +1,31 @@
+ {
+        "brand": "mercedes",
+        "model": "e",
+        "price": 1.0,
+        "yearOfProduction": 2020,
+        "mileage": 0.0,
+        "engineCapacity": 1000.0,
+        "amount": 1,
+        "phoneNumber": 7777,
+        "fuel": "eletricity",
+        "salonName": "salon3",
+        "r_salon": {
+            "id": 8
+        }
+ }
+
+{
+        "name": "test",
+        "capacity": 22,
+        "carshowroomcontainerentity": {
+            "id": 1,
+            "name": "Krakow"
+        }
+}
+
+ {
+        "value": 3,
+        "r_salon": {
+            "id": 9
+        }
+ }
